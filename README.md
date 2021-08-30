@@ -7,10 +7,10 @@
 3. Javascript
 4. C
 5. C++
+6. C#
 7. BASH(Terminal and Script)
 8. HTML
 9. CSS
-10. C#
 
 **I am always open to work on any project, provide assistance or advice, message me through my email!**
 

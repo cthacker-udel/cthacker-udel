@@ -1,5 +1,7 @@
 ### Hello! My name is Cameron Thacker and I am a Computer Science Enthusiast! I do coding and always strive to learn more about the subject at every oppurtunity!
 
+[![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=cthacker-udel)](https://github.com/anuraghazra/github-readme-stats)
+
 #### My current languages known are:
 
 1. Python 🐍

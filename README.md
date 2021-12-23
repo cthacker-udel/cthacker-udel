@@ -7,7 +7,7 @@
 1. Python 🐍
 2. Java ☕
 3. Javascript
-4. React
+4. React (Framework)
 5. Typescript
 7. C
 8. C++

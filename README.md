@@ -7,12 +7,14 @@
 1. Python 🐍
 2. Java ☕
 3. Javascript
-4. C
-5. C++
-6. C#
-7. BASH(Terminal and Script)
-8. HTML
-9. CSS
+4. React
+5. Typescript
+7. C
+8. C++
+9. C#
+10. BASH(Terminal and Script)
+11. HTML
+12. CSS
 
 **I am always open to work on any project, provide assistance or advice, message me through my email!**
 

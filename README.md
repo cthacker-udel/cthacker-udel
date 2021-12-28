@@ -22,7 +22,7 @@
 
 📫 How to reach me: cthacker@udel.edu
 
-🌱 I’m currently learning the C# language!
+🌱 I’m currently learning C#, and the SQL language!
 
 👯 I’m looking to collaborate on any project! Contact me!
 

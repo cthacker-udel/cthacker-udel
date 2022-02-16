@@ -10,13 +10,14 @@
 4. React (Framework)
 5. Typescript
 6. NodeJS
-7. C
-8. C++
-9. C#
-10. BASH(Terminal and Script)
-11. HTML
-12. CSS
-13. SQL
+7. NestJS (Framework)
+8. C
+9. C++
+10. C#
+11. BASH(Terminal and Script)
+12. HTML
+13. CSS
+14. SQL
 
 **I am always open to work on any project, provide assistance or advice, message me through my email!**
 

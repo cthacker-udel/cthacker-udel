@@ -16,6 +16,7 @@
 10. BASH(Terminal and Script)
 11. HTML
 12. CSS
+13. SQL
 
 **I am always open to work on any project, provide assistance or advice, message me through my email!**
 
@@ -23,7 +24,7 @@
 
 📫 How to reach me: cthacker@udel.edu
 
-🌱 I’m currently learning C#, and the SQL language!
+🌱 I’m currently learning .ASP net
 
 👯 I’m looking to collaborate on any project! Contact me!
 

@@ -17,7 +17,9 @@
 11. BASH(Terminal and Script)
 12. HTML
 13. CSS
-14. SQL
+14. SASS
+15. SQL
+16. BF
 
 **I am always open to work on any project, provide assistance or advice, message me through my email!**
 

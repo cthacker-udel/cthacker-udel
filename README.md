@@ -1,5 +1,3 @@
-![](https://www.codewars.com/users/cthacker-udel/badges/large)
-<br></br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cameron+Thacker;University+of+Delaware;Software+Developer&multiline=true&height=79&duration=3259)](https://git.io/typing-svg)
 <br></br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cthacker-udel&theme=dark)](https://git.io/streak-stats)
@@ -43,3 +41,4 @@
 # Stats
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![](https://www.codewars.com/users/cthacker-udel/badges/micro)

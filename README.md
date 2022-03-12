@@ -28,15 +28,15 @@
 
 **I am always open to work on any project, provide assistance or advice, message me through my email!**
 
-🔭 I’m currently working on: check my most [recent repository](https://github.com/cthacker-udel?tab=repositories) that has been updated!
+- I’m currently working on: check my most [recent repository](https://github.com/cthacker-udel?tab=repositories) that has been updated!
 
-📫 How to reach me: cthacker@udel.edu
+- How to reach me: cthacker@udel.edu
 
-🌱 I’m currently learning .ASP net
+- I’m currently learning .ASP net
 
-👯 I’m looking to collaborate on any project! Contact me!
+- I’m looking to collaborate on any project! Contact me!
 
-💬 Ask me about any coding problems or questions you have!
+- Ask me about any coding problems or questions you have!
 
 # Stats
 

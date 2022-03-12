@@ -1,7 +1,13 @@
 ![](https://www.codewars.com/users/cthacker-udel/badges/large)
-### Hello! My name is Cameron Thacker and I am a Computer Science Enthusiast! I do coding and always strive to learn more about the subject at every oppurtunity!
-
+<br></br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cameron+Thacker;University+of+Delaware;Software+Developer&multiline=true&height=79&duration=3259)](https://git.io/typing-svg)
+<br></br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cthacker-udel&theme=dark)](https://git.io/streak-stats)
 ![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=cthacker-udel&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true)
+<br></br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=cthacker-udel&theme=darkhub&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Hello! My name is Cameron Thacker and I am a Computer Science Enthusiast! I do coding and always strive to learn more about the subject at every oppurtunity!
 
 #### My current languages known are:
 
@@ -34,17 +40,6 @@
 
 💬 Ask me about any coding problems or questions you have!
 
-<!--
-**cthacker-udel/cthacker-udel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)

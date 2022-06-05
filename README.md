@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cameron+Thacker;University+of+Delaware;Software+Developer&multiline=true&height=79&duration=3259)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cameron+Thacker;University+of+Delaware;Full+Stack+Software+Developer&multiline=true&height=79&duration=3259)](https://git.io/typing-svg)
 <br></br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cthacker-udel&theme=dark)](https://git.io/streak-stats)
 ![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=cthacker-udel&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true)

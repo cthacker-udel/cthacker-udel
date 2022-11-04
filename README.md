@@ -4,8 +4,10 @@
 ![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=cthacker-udel&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true)
 <br></br>
 
+<div style="background-color: red;">
 ### Hello! My name is Cameron Thacker and I am a Computer Science Enthusiast! I do coding and always strive to learn more about the subject at every oppurtunity!
-
+</div>
+ 
 #### My current languages known are:
 
 1. Python 🐍

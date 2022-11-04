@@ -3,7 +3,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cthacker-udel&theme=dark)](https://git.io/streak-stats)
 ![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=cthacker-udel&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true)
 <br></br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=cthacker-udel&theme=darkhub&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Hello! My name is Cameron Thacker and I am a Computer Science Enthusiast! I do coding and always strive to learn more about the subject at every oppurtunity!
 

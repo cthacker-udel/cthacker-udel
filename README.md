@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&duration=1500&pause=100&color=14CABC&center=true&multiline=true&width=1000&height=120&lines=Cameron+Thacker;University+of+Delaware+-+BS+Computer+Science;Full-Stack+Developer;Beginner+Data+Scientist)](https://git.io/typing-svg)
 <br></br>
+<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cthacker-udel&theme=dark)](https://git.io/streak-stats)
+</p>
 ![](https://github-readme-stats.vercel.app/api?username=cthacker-udel&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true)
 <br></br>
 

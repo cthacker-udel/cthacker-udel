@@ -1,9 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&duration=1500&pause=100&color=14CABC&center=true&multiline=true&width=1000&height=120&lines=Cameron+Thacker;University+of+Delaware+-+BS+Computer+Science;Full-Stack+Developer;Beginner+Data+Scientist)](https://git.io/typing-svg)
 <br></br>
+
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cthacker-udel&theme=dark)](https://git.io/streak-stats)
+  <a href="https://git.io/steak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cthacker-udel&theme=dark" /></a>
 </p>
-![](https://github-readme-stats.vercel.app/api?username=cthacker-udel&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true)
+
+<p align="center">
+   <a href="https://github-readme-stats.vercel.app/api?username=cthacker-udel&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true"><img src="https://github-readme-stats.vercel.app/api?username=cthacker-udel&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true" /></a>
+</p>
+
 <br></br>
 
 ### Hello! My name is Cameron Thacker and I am a Computer Science Enthusiast! I do coding and always strive to learn more about the subject at every oppurtunity!

@@ -1,7 +1,7 @@
 ![github_header](https://github.com/cthacker-udel/cthacker-udel/assets/70614147/11bca77b-3c1c-4962-9977-4a81c178f69c)
 
 <details>
-  <summary><b>🔥 Streak & Overall # Contributions</b></summary>
+  <summary><b>🔥 Streak & Total Contributions</b></summary>
   <p align="center">
     <a href="https://git.io/steak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cthacker-udel&theme=dark" /></a>
   </p>

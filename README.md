@@ -47,8 +47,6 @@
   </a>
 </p>
 
-<br >
-
 - 🔨 [I’m currently working on](https://github.com/cthacker-udel?tab=repositories&q=&type=&language=&sort=)
 
 - 📥 cthacker@udel.edu | cmcthacker@gmail.com
@@ -56,8 +54,6 @@
 - 🏗️ **I am always open to work on any project, provide assistance or advice, message me through my email!**
 
 - ❓ **Ask me about any coding problems or questions you have!**
-
-# Stats
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 ![](https://www.codewars.com/users/cthacker-udel/badges/micro)

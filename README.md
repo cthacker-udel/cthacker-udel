@@ -1,28 +1,5 @@
 ![github_header](https://github.com/cthacker-udel/cthacker-udel/assets/70614147/11bca77b-3c1c-4962-9977-4a81c178f69c)
 
-<details>
-  <summary><b>🔥 Streak & Total Contributions</b></summary>
-  <p align="center">
-    <a href="https://git.io/steak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cthacker-udel&theme=dark" /></a>
-  </p>
-</details>
-
-<details>
-  <summary><b>📈 Stats</b></summary>
-  <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=cthacker-udel&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true"><img src="https://github-readme-stats.vercel.app/api?username=cthacker-udel&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true" /></a>
-  </p>
-</details>
-
-<details>
-  <summary><b>🌱 Languages</b></summary>
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cthacker-udel&langs_count=10&layout=donut&exclude_repo=Python-Canvas-API-Wrapper,discord_bot_python,Python-Soundcloud-Wrapper,Python-Slack-API,Python-WebScraper,Python-Reddit-API,Python-Gmail-API-Wrapper,Python-Discord-API,walgreens-python-api,Spotify-API">
-  </p>
-</details>
-
-<br>
-
 <p align="center">
   <a href="https://codeforces.com/profile/dalizardking" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
@@ -46,6 +23,29 @@
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
   </a>
 </p>
+
+<br >
+
+<details>
+  <summary><b>🔥 Streak & Total Contributions</b></summary>
+  <p align="center">
+    <a href="https://git.io/steak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cthacker-udel&theme=dark" /></a>
+  </p>
+</details>
+
+<details>
+  <summary><b>📈 Stats</b></summary>
+  <p align="center">
+    <a href="https://github-readme-stats.vercel.app/api?username=cthacker-udel&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true"><img src="https://github-readme-stats.vercel.app/api?username=cthacker-udel&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true" /></a>
+  </p>
+</details>
+
+<details>
+  <summary><b>🌱 Languages</b></summary>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cthacker-udel&langs_count=10&layout=donut&exclude_repo=Python-Canvas-API-Wrapper,discord_bot_python,Python-Soundcloud-Wrapper,Python-Slack-API,Python-WebScraper,Python-Reddit-API,Python-Gmail-API-Wrapper,Python-Discord-API,walgreens-python-api,Spotify-API">
+  </p>
+</details>
 
 <br >
 

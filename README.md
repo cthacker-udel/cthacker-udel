@@ -24,25 +24,25 @@
 <br>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/dalizardking">
+  <a href="https://codeforces.com/profile/dalizardking" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
   </a>
-  <a href="https://www.codewars.com/users/cthacker-udel">
+  <a href="https://www.codewars.com/users/cthacker-udel" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
   </a>
-  <a href="https://www.hackerrank.com/cthacker?hr_r=1">
+  <a href="https://www.hackerrank.com/cthacker?hr_r=1" style="text-decoration: none">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
-  <a href="https://www.kaggle.com/cameronthacker">
+  <a href="https://www.kaggle.com/cameronthacker" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
   </a>
-  <a href="https://leetcode.com/cthacker/">
+  <a href="https://leetcode.com/cthacker/" style="text-decoration: none">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
   </a>
-  <a href="https://www.linkedin.com/in/cameron-thacker/">
+  <a href="https://www.linkedin.com/in/cameron-thacker/" style="text-decoration: none">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://linktr.ee/cthacker">
+  <a href="https://linktr.ee/cthacker" style="text-decoration: none">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
   </a>
 </p>

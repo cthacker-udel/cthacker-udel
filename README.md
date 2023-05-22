@@ -59,6 +59,6 @@
 
 <br >
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 ![](https://www.codewars.com/users/cthacker-udel/badges/micro)
-[![LeetCode user cthacker](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcthacker&logo=leetcode&logoColor=yellow)](https://leetcode.com/cthacker/)
+[![LeetCode user cthacker](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcthacker&logo=leetcode&logoColor=yellow)](https://leetcode.com/cthacker/) -->

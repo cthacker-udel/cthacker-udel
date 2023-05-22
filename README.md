@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<br >
+<hr >
 
 <details>
   <summary><b>🔥 Streak & Total Contributions</b></summary>
@@ -47,7 +47,7 @@
   </p>
 </details>
 
-<br >
+<hr >
 
 - 🔨 [I’m currently working on](https://github.com/cthacker-udel?tab=repositories&q=&type=&language=&sort=)
 

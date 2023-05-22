@@ -1,5 +1,4 @@
 ![github_header](https://github.com/cthacker-udel/cthacker-udel/assets/70614147/11bca77b-3c1c-4962-9977-4a81c178f69c)
-<br></br>
 
 <details>
   <summary><b>🔥 Streak & Overall # Contributions</b></summary>
@@ -15,40 +14,48 @@
   </p>
 </details>
 
-<br></br>
+<details>
+  <summary><b>🌱 Languages</b></summary>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cthacker-udel&langs_count=10&layout=donut&exclude_repo=Python-Canvas-API-Wrapper,discord_bot_python,Python-Soundcloud-Wrapper,Python-Slack-API,Python-WebScraper,Python-Reddit-API,Python-Gmail-API-Wrapper,Python-Discord-API,walgreens-python-api,Spotify-API">
+  </p>
+</details>
 
-### Hello! My name is Cameron Thacker and I am a Computer Science Enthusiast! I do coding and always strive to learn more about the subject at every opportunity!
+<br>
 
-#### My current languages known are:
+<p align="center">
+  <a href="https://codeforces.com/profile/dalizardking">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
+  </a>
+  <a href="https://www.codewars.com/users/cthacker-udel">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
+  </a>
+  <a href="https://www.hackerrank.com/cthacker?hr_r=1">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
+  <a href="https://www.kaggle.com/cameronthacker">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/cthacker/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+  </a>
+  <a href="https://www.linkedin.com/in/cameron-thacker/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://linktr.ee/cthacker">
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
+  </a>
+</p>
 
-1. Python 🐍
-2. Java ☕
-3. Javascript
-4. React (Framework)
-5. Typescript
-6. NodeJS
-7. NestJS (Framework)
-8. C
-9. C++
-10. C#
-11. BASH(Terminal and Script)
-12. HTML
-13. CSS
-14. SASS
-15. SQL
-16. BF
+<br >
 
-**I am always open to work on any project, provide assistance or advice, message me through my email!**
+- 🔨 [I’m currently working on](https://github.com/cthacker-udel?tab=repositories&q=&type=&language=&sort=)
 
-- I’m currently working on: check my most [recent repository](https://github.com/cthacker-udel?tab=repositories) that has been updated!
+- 📥 cthacker@udel.edu | cmcthacker@gmail.com
 
-- How to reach me: cthacker@udel.edu
+- 🏗️ **I am always open to work on any project, provide assistance or advice, message me through my email!**
 
-- I’m currently learning .ASP net
-
-- I’m looking to collaborate on any project! Contact me!
-
-- Ask me about any coding problems or questions you have!
+- ❓ **Ask me about any coding problems or questions you have!**
 
 # Stats
 

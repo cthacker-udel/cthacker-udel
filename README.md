@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&duration=1500&pause=100&color=14CABC&center=true&multiline=true&width=1000&height=120&lines=Cameron+Thacker;University+of+Delaware+-+BS+Computer+Science;Full-Stack+Developer;Beginner+Data+Scientist)](https://git.io/typing-svg)
+![github_header](https://github.com/cthacker-udel/cthacker-udel/assets/70614147/11bca77b-3c1c-4962-9977-4a81c178f69c)
 <br></br>
 
 <details>

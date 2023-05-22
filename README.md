@@ -1,18 +1,24 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&duration=1500&pause=100&color=14CABC&center=true&multiline=true&width=1000&height=120&lines=Cameron+Thacker;University+of+Delaware+-+BS+Computer+Science;Full-Stack+Developer;Beginner+Data+Scientist)](https://git.io/typing-svg)
 <br></br>
 
-<p align="center">
-  <a href="https://git.io/steak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cthacker-udel&theme=dark" /></a>
-</p>
+<details>
+  <summary><b>🔥 Streak & Overall # Contributions</b></summary>
+  <p align="center">
+    <a href="https://git.io/steak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cthacker-udel&theme=dark" /></a>
+  </p>
+</details>
 
-<p align="center">
-   <a href="https://github-readme-stats.vercel.app/api?username=cthacker-udel&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true"><img src="https://github-readme-stats.vercel.app/api?username=cthacker-udel&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true" /></a>
-</p>
+<details>
+  <summary><b>📈 Stats</b></summary>
+  <p align="center">
+    <a href="https://github-readme-stats.vercel.app/api?username=cthacker-udel&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true"><img src="https://github-readme-stats.vercel.app/api?username=cthacker-udel&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true" /></a>
+  </p>
+</details>
 
 <br></br>
 
-### Hello! My name is Cameron Thacker and I am a Computer Science Enthusiast! I do coding and always strive to learn more about the subject at every oppurtunity!
- 
+### Hello! My name is Cameron Thacker and I am a Computer Science Enthusiast! I do coding and always strive to learn more about the subject at every opportunity!
+
 #### My current languages known are:
 
 1. Python 🐍

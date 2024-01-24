@@ -26,6 +26,12 @@
 
 <hr >
 
+<div align="center">
+    <a href="https://discord.com/users/520524669565272074">
+     <img src="https://lanyard.cnrad.dev/api/520524669565272074" alt="Discord Status" />
+    </a>
+</div>
+
 <details>
   <summary><b>🔥 Streak & Total Contributions</b></summary>
   <p align="center">
